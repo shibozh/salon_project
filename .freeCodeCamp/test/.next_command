@@ -104,3 +104,19 @@ git commit -m "Initial"
 git status
 git branch
 git add .
+git status
+git commit -m "second"
+git status
+git push
+git remote add origin git@github.com:shibozh/salon_project.git
+git remote add origin git@github.com:shibozh/salon_project.git
+git remote add origin git@github.com:shibozh/salon_project.git
+git remote add origin git@github.com:shibozh/salon_project.git
+git remote remove origin
+git remote add origin git@github.com:shibozh/salon_project.git
+git branch -M main
+git branch
+git push -u origin main
+git init
+git status
+git add .
